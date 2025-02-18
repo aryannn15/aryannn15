@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryannn15
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning about pipelining and api...
+- 🌱 I’m currently learning about  data pipelining and api...
 - 📫 you can contact me at aryanvbhandari@gmail.com
 
 
